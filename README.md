@@ -8,3 +8,9 @@
 
  One example of this would be with the main.py file in which case run,
  `python -m streamlit run main.py`
+
+## Installing required python Libraries
+
+ Other then needing python installed, you will also need all the libraries included within the requirements.txt files.
+ To install these python libraries you will first have to have pip installed and then run
+ `pip install -r requirements.txt`
