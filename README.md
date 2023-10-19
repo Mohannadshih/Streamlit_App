@@ -9,6 +9,9 @@
  One example of this would be with the main.py file in which case run,
  `python -m streamlit run main.py`
 
+ Another example of this would be with the muli_page.py file for the multi_page app in which case run,
+ `python -m streamlit run multi_page.py`
+
 ## Installing required python Libraries
 
  Other then needing python installed, you will also need all the libraries included within the requirements.txt files.
