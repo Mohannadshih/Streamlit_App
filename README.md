@@ -1,5 +1,5 @@
 # Streamlit_App
- App to learn about how to use Streamlit
+ App using existing code from online to learn about how to use Streamlit
 
 ## How to run the Streamlit App(s)
 
